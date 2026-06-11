@@ -1,0 +1,8 @@
+objectid,parentid,format,filename,title,description,latitude,longitude,source,identifier,type,language,rights,rightsstatement,youtubeid,vimeoid,creator,date,subject,location
+coll001,,image/jpeg,IMG20260609164438.jpg,Top Ramen,A violin 1,45.139577,10.0158750,,,,,,,,,,,,
+coll002,,image/jpeg,IMG20260609164505.jpg,Diavoli x Capelli Cremona,Violin no2,45.139578,10.0158751,,,,,,,,,,,,
+coll003,,image/jpeg,IMG20260609171342.jpg,Pedota Alessandra violinmaker,violin 3,45.139579,10.0158752,,,,,,,,,,,,
+coll004,coll002,multiple,IMG20260609171232.jpg,Diavoli 2,violin plus,45.139578,10.0158751,,,,,,,,,,,,
+coll005,coll002,multiple,IMG20260609171256.jpg,Diavoli 3,violin tres,45.139578,10.0158751,,,,,,,,,,,,
+coll006,,image/jpeg,IMG20260609195829.jpg,Caffetteria Bistrot,violin no 4,45.139580,10.0158753,,,,,,,,,,,,
+coll007,,image/jpeg,IMG20260609212433.jpg,Corso Garibaldi,violin 5,45.139581,10.0158754,,,,,,,,,,,,
